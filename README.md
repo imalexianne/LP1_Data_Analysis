@@ -78,6 +78,5 @@ Hypothesis & Questions:
 
 |  | Power Bi link            | LinkedIn article link                       | GitHub's Link                                       |
 |:--:|:------------------------:|:----------------------------------:|:---------------------------------------------------:|
-| 1 |  https://        |  https://     |https://github.com/imalexianne/CipherEncription      |
-| 2 |  https://        |  https://      |https://github.com/imalexianne/CipherDecription      | 
-| 3 |  https://        | https:// |https://github.com/imalexianne/Mortgage-Calculator   | 
+|   https://        |  https://     |https://github.com/imalexianne/CipherEncription      |
+
