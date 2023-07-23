@@ -76,7 +76,7 @@ Hypothesis & Questions:
 
 -   **Fair**: No hypothesis and asked up to 3 questions
 
-|  | Power Bi link            | LinkedIn article link                       | GitHub's Link                                       |
-|:--:|:------------------------:|:----------------------------------:|:---------------------------------------------------:|
+|   Power Bi link            | LinkedIn article link                       | GitHub's Link                                       |
+|:------------------------:|:----------------------------------:|:---------------------------------------------------:|
 |   https://        |  https://     |https://github.com/imalexianne/CipherEncription      |
 
