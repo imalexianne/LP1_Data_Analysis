@@ -78,5 +78,5 @@ Hypothesis & Questions:
 
 |  Power Bi link            | LinkedIn article link                       | GitHub's Link                                       |
 |:------------------------:|:----------------------------------:|:---------------------------------------------------:|
-|  https://        |  https://     |https://github.com/imalexianne/CipherEncription      |
+|  https://        |  https://     |https://github.com/imalexianne/LP1_Data_Analysis/tree/master      |
 
