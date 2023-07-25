@@ -147,6 +147,10 @@ FinTech has the highest number of startups in the dataset, followed by Retail,Ed
 
 In conclusion, while the sector, location and stage of a startup may not have a significant impact on funding outcomes, startups can enhance their chances of securing funding by focusing on factors such as market potential, value proposition, team expertise, and adapting their fundraising strategies based on market trends and investor preferences.
 
+## Workflow
+
+Open this https://github.com/imalexianne/LP1_Data_Analysis/blob/master/Indian-start-up-funding-ecosystem-analysis.ipynb for further exploration.
+
 
 ## Setup
 Install the required packages to be able to run the evaluation locally.
